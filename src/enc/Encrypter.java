@@ -1,7 +1,7 @@
 package enc;
 
-import DataStructure.ListNode;
-import DataStructure.TreeNode;
+import dataStructure.ListNode;
+import dataStructure.TreeNode;
 
 import java.io.*;
 import java.util.Scanner;
