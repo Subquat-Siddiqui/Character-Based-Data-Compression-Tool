@@ -32,7 +32,7 @@ public class Encrypter {
 
         Scanner input = null;
         try {
-            input = new Scanner(new File("../Character-Based Data Compression Tool/" + inputFile));
+            input = new Scanner(new File(inputFile));
         }
         catch (IOException ioe) {
             System.out.println("Unsuccessful");
