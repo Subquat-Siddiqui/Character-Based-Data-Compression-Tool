@@ -1,0 +1,1 @@
+Hello, my name is Subquat Siddiqui. This is a test to check the message being displayed here will be converted into a binary pattern by the Encrypter Class, then back to original form using the Decrypter class.
